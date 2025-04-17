@@ -1,6 +1,6 @@
 # caknak-supa
 
-This repository automates the retrieval and storage of ransomware victim data for ASEAN countries using the [Ransomware.live API](https://ransomware.live/). It is curated specifically to support analysis and visualization of regional cybersecurity trends.
+This repository automates the retrieval and storage of ransomware victim data for ASEAN countries using the [Ransomware.live API](https://ransomware.live/). It is curated specifically to support analysis and visualization of regional cybersecurity trends. 
 
 ## What This Does
 
@@ -19,7 +19,7 @@ This repository automates the retrieval and storage of ransomware victim data fo
 
 ## Sync Frequency
 
-This project is set to **automatically sync once per day** at 1AM UTC. You can also manually trigger it via GitHub Actions.
+This project is set to **automatically sync once per day** at 1AM UTC. Manual trigger is also available.
 
 ## Technologies
 
