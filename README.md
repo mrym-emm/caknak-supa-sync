@@ -11,7 +11,7 @@ This repository automates the retrieval and storage of ransomware victim data fo
 - Uploads it to a [Supabase](https://supabase.com) PostgreSQL database
 - Automatically runs daily using GitHub Actions
 
-## 🗂Repo Structure
+## Repo Structure
 
 - `sync_asean_ransomware.py` — the main sync script
 - `requirements.txt` — packages used
