@@ -2,7 +2,7 @@ name: Sync Ransomware to Supabase
 
 on:
   schedule:
-    - cron: '0 1 * * *'    # runs daily at 1AM UTC
+    - cron: '0 0 * * *'    # runs daily at 12 am UTC time
   workflow_dispatch:        # manual trigger
 
 jobs:
